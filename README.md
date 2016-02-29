@@ -1,3 +1,5 @@
+## This repo is DEPRECATED, see [elbarco.cn](https://github.com/2hf/elbarco.cn) for more details.
+
 # El barco
 
 This repo holds hexo themes base on [indigo](https://github.com/yscoder/hexo-theme-indigo) and some personalized configurations for my [BLOG](http://0x4b5.top).
